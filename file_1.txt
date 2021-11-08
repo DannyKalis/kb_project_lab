@@ -2,3 +2,7 @@ Here is another line.
 This is
 Ken Buehner's
 test file.
+
+Hey this is Dan
+I'm in Ken's test file
+Pretty nice.
