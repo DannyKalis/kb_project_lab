@@ -1,3 +1,4 @@
+Here is another line.
 This is
 Ken Buehner's
 test file.
